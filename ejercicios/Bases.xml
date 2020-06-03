@@ -1,0 +1,183 @@
+
+<table class="table table-bordered table-hover table-condensed">
+<tbody><tr>
+<td>apellido</td>
+<td>nombre</td>
+<td>fecha_Nacimiento/dia</td>
+<td>fecha_Nacimiento/mes</td>
+<td>fecha_Nacimiento/anio</td>
+<td>asignatura/0/nameMat</td>
+<td>asignatura/0/nota1</td>
+<td>asignatura/0/nota2</td>
+<td>asignatura/0/nota3</td>
+<td>asignatura/0/aprobado</td>
+<td>asignatura/0/_Codigo</td>
+<td>asignatura/1/nameMat</td>
+<td>asignatura/1/nota1</td>
+<td>asignatura/1/nota2</td>
+<td>asignatura/1/nota3</td>
+<td>asignatura/1/aprobado</td>
+<td>asignatura/1/_Codigo</td>
+<td>_id</td>
+</tr>
+<tr>
+<td>Suntaxi</td>
+<td>Juan</td>
+<td>02</td>
+<td>11</td>
+<td>1998</td>
+<td>redes de computadores</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>si</td>
+<td>SIC416</td>
+<td>sistemas operativos</td>
+<td>8</td>
+<td>8</td>
+<td>6</td>
+<td>si</td>
+<td>SIC414</td>
+<td>1</td>
+</tr>
+<tr>
+<td>ulloa</td>
+<td>Alex</td>
+<td>04</td>
+<td>8</td>
+<td>1996</td>
+<td>compiladores y lenguajes</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>si</td>
+<td> SIC424</td>
+<td>bases de datos</td>
+<td>8</td>
+<td>8</td>
+<td>6</td>
+<td>si</td>
+<td>SIC426</td>
+<td>2</td>
+</tr>
+<tr>
+<td>cuasqui</td>
+<td>jimmy</td>
+<td>05</td>
+<td>7</td>
+<td>1997</td>
+<td>algoritmos numericos</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>si</td>
+<td>SIC412</td>
+<td>gestión de proyectos</td>
+<td>8</td>
+<td>8</td>
+<td>6</td>
+<td>si</td>
+<td>SIC434</td>
+<td>3</td>
+</tr>
+<tr>
+<td>pogo</td>
+<td>michael</td>
+<td>15</td>
+<td>05</td>
+<td>1996</td>
+<td>arquitectura de comutadores</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>si</td>
+<td>SIC316</td>
+<td>estructuras de datos</td>
+<td>8</td>
+<td>8</td>
+<td>6</td>
+<td>si</td>
+<td>SIC334</td>
+<td>4</td>
+</tr>
+<tr>
+<td>pillajo</td>
+<td>hilton</td>
+<td>20</td>
+<td>09</td>
+<td>1997</td>
+<td>inteligencia artificial</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>si</td>
+<td>SIC416</td>
+<td>programacion</td>
+<td>8</td>
+<td>8</td>
+<td>6</td>
+<td>si</td>
+<td>SIC216</td>
+<td>5</td>
+</tr>
+<tr>
+<td>morales</td>
+<td>oswaldo</td>
+<td>07</td>
+<td>01</td>
+<td>1994</td>
+<td>redes de computadores</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>si</td>
+<td>SIC416</td>
+<td>inteligencia artificial</td>
+<td>8</td>
+<td>8</td>
+<td>6</td>
+<td>si</td>
+<td>SIC416</td>
+<td>6</td>
+</tr>
+<tr>
+<td>torres</td>
+<td>leonardo</td>
+<td>18</td>
+<td>02</td>
+<td>1998</td>
+<td>algoritmos numericos</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>si</td>
+<td>SIC412</td>
+<td>sistemas operativos</td>
+<td>8</td>
+<td>8</td>
+<td>6</td>
+<td>si</td>
+<td>SIC414</td>
+<td>7</td>
+</tr>
+<tr>
+<td>maldonado</td>
+<td>david</td>
+<td>28</td>
+<td>05</td>
+<td>1997</td>
+<td>redes de computadores</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>si</td>
+<td> SIC416</td>
+<td>bases de datos</td>
+<td>8</td>
+<td>8</td>
+<td>6</td>
+<td>si</td>
+<td>SIC426</td>
+<td>8</td>
+</tr>
+</tbody></table>
